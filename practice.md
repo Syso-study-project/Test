@@ -6,3 +6,8 @@
 - add
 - commit
 - push
+
+- branch
+- checkout
+
+- merge
